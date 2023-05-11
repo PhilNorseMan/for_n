@@ -1,0 +1,94 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500px;
+    line-height: 100%;
+    font-style: normal;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.top {}
+
+.header {
+    padding: 40px 0;
+    margin: 0 0 84px 0;
+}
+
+.header-logo {}
+
+.company-name {
+    font-style: unset;
+    font size: 24px;
+    align: left;
+    vertical-align: top;
+}
+
+.menu {}
+
+.menu-list {
+    list-style: none;
+}
+
+.menu-list-home a {
+    color: #F25822;
+}
+
+.menu-list-item {}
+
+.promo {}
+
+.promo-content {}
+
+.promo-info {}
+
+.title {
+    margin: 0 0 17px 0;
+    font-weight: 222;
+    font-size: 60px;
+    align: Left;
+    vertical align: Top;
+}
+
+.promo-txt {
+    color: #888888;
+}
+
+.promo-btn {
+    display: block;
+    border: none;
+}
+
+.button {
+    color: #fff;
+    background-color: #F25822;
+    box-shadow: 4px 4px 8px 0px #F2582233;
+    border-radius: 8px;
+    offset: 4px, 4px;
+    border: none;
+}
+
+.video-link {
+    color: #AAAAAA;
+}
+
+.promo-photo {}
+
+.promo-logos {}
+
+.promo-txt {
+    margin: 0 0 37px 0;
+}
+
+.promo {
+    margin: 0 0 118px 0;
+}
